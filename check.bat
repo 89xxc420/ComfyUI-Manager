@@ -1,4 +1,5 @@
-@echo off
+@echo on
+
 
 python json-checker.py "custom-node-list.json"
 python json-checker.py "model-list.json"
